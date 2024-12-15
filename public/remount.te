@@ -1,1 +1,1 @@
-type remount, domain, coredomain;
+userdebug_or_eng(`type remount, domain, coredomain;')
